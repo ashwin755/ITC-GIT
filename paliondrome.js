@@ -1,4 +1,4 @@
-var x=5155;
+var x=1121;
 var y=x;
 var h=0;
 while(y>0)
@@ -8,7 +8,7 @@ while(y>0)
     y=parseInt(y/10);
     
 }
-if(y==h)
+if(x==h)
     {
         console.log("THE NO IS PALIONDROME")
     
